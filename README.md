@@ -2,5 +2,5 @@
 
 
 
-\##Plasma Temperature Classifier
+## Plasma Temperature Classifier
 
